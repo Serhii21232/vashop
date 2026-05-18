@@ -1,7 +1,7 @@
 import os
 import telebot
 
-TOKEN = os.getenv("8101017025:AAFwBf6aFZoxt3ymLNlZPSAFYwhZ8dla3qo")
+TOKEN = os.getenv("TOKEN")
 
 CHANNEL_LINK = "https://t.me/+U0SUWivTGNM2NzQ6"
 FUNPAY_LINK = "https://funpay.com/users/14346017/"
